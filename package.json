@@ -1,3 +1,4 @@
+
 {
   "name": "@zaiinlin/bails",
   "version": "1.0.2",
@@ -7,10 +8,10 @@
     "whatsapp",
     "whatsapp-baileys"
   ],
-  "homepage": "https://github.com/zaiinlin/baileys",
+  "homepage": "https://github.com/zaiinlin/bailys#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zaiinlin/baileys.git"
+    "url": "https://github.com/zaiinlin/bailys.git"
   },
   "license": "MIT",
   "author": "VinnxsynC",
@@ -135,7 +136,7 @@
     "node": ">=20.0.0"
   },
   "bugs": {
-    "url": "https://github.com/zaiinlin/baileys/issues"
+    "url": "https://github.com/zaiinlin/bailys/issues"
   },
   "publishConfig": {
     "access": "public",
